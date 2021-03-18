@@ -21,16 +21,16 @@
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is Yuhao Dai's personal site, I will use this site to publish my activities, accomplishments and more.
+  这是戴羽豪的私人网站，我会用此网站发布我的活动，成就以及更多。
+  このサイトはYuhao Daiの個人用サイトで，最近の状況や成し遂げたことなどを書く予定です
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: DaiYuhao
+github_username:  y2data
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
