@@ -8,7 +8,7 @@ title: Home
 <h2>Hello!</h2>
 
 * Welcome to my website, scroll down for my recent posts.
-* Here's my [blog](https://y2d.club) hosted on WordPress (depreach alert).
+* Here's my [blog](https://y2d.club) hosted on WordPress (deprecation alert).
 * I'll add more once I'm in the mood.
 
 <h3>My recent posts:</h3>
@@ -21,4 +21,3 @@ title: Home
 {{ post.excerpt }}
 
 {% endfor %}
-
