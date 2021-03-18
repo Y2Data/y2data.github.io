@@ -21,7 +21,7 @@
 title: Yuhao Dai's Posts
 email: d12366380@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Yuhao Dai's personal site, updated with recent interests, study notes and accomplishments.
+  This is Yuhao Dai's personal site, updated with recent interests, study notes and accomplishments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://y2data.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DaiYuhao
@@ -31,7 +31,7 @@ github_username:  y2data
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
-  - jekyll-layouts
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
