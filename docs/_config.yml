@@ -28,7 +28,7 @@ twitter_username: DaiYuhao
 github_username:  y2data
 
 # Build settings
-theme: Tactile
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
