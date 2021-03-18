@@ -23,14 +23,15 @@ email: d12366380@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Yuhao Dai's personal site, updated with recent interests, study notes and accomplishments.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://y2data.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DaiYuhao
 github_username:  y2data
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-layouts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
