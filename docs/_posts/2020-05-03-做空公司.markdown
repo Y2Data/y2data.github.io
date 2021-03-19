@@ -27,4 +27,4 @@ date: 2020-05-03 10:18:20 +0900
 3. 律所集体诉讼
 
 ### 过往做空例
-[Muddy Water's Shorting History](/assets/Muddy-waters.png)
+![Muddy Water's Shorting History](/assets/Muddy-waters.png)

@@ -11,7 +11,10 @@ title: Home
 * Checkout my [GitHub](https://github.com/Y2Data) and my [Twitter](https://twitter.com/DaiYuhao)
 * Here's my [blog](https://y2d.club) hosted on WordPress (deprecation alert).
 * I'll add more whenever possible.
+* Here's a list view of all my posts:
+  [List of Posts]({{ site.url }}/all)
 * View my [resume](/assets/CV.pdf)!
+* [Certifications]({{ site.url }}/certs)
 
 <h3>My recent posts:</h3>
 
