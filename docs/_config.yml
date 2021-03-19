@@ -8,11 +8,11 @@ twitter_username: DaiYuhao
 github_username:  y2data
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  
+
 markdown: kramdown
 
 # Exclude from processing.

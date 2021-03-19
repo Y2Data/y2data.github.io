@@ -9,7 +9,8 @@ title: Home
 
 * Welcome to my website, scroll down for my recent posts.
 * Here's my [blog](https://y2d.club) hosted on WordPress (deprecation alert).
-* I'll add more once I'm in the mood.
+* I'll add more whenever possible.
+* View my [resume](/assets/CV.pdf)!
 
 <h3>My recent posts:</h3>
 
@@ -18,6 +19,6 @@ title: Home
     <li><a href="{{ post.url }}">{{ post.title }} ({{ post.date | date: "%b %d, %Y" }})</a></li>
   </ul>
 
-{{ post.excerpt }}
+{{ post.excerpt | truncatewords: 30 }}
 
 {% endfor %}
