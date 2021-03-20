@@ -8,7 +8,6 @@ title: Home
 <h2>Hello!</h2>
 
 * Welcome to my website, scroll down for my recent posts.
-* Checkout my [GitHub](https://github.com/Y2Data) and my [Twitter](https://twitter.com/DaiYuhao)
 * Here's my [blog](https://y2d.club) hosted on WordPress (deprecation alert).
 * I'll add more whenever possible.
 * Here's a list view of all my posts:
