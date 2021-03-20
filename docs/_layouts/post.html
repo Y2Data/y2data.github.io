@@ -9,11 +9,17 @@ author: Yuhao Dai
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y  -  %H:%m:%S" -%}
-        {{ page.date | date: date_format }}
       </time>
+      {{ page.date | date: date_format }}
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
+      ({{ content | strip_html | strip_newlines | size }} words)
+      {% for i in page.categories %}
+        <ul>
+          {{ i }}
+        </ul>
+      {% endfor %}
     </p>
   </header>
 

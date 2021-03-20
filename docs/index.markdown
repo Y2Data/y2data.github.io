@@ -9,19 +9,14 @@ title: Home
 
 * Welcome to my website, scroll down for my recent posts.
 * Here's my [blog](https://y2d.club) hosted on WordPress (deprecation alert).
-* I'll add more whenever possible.
 * Here's a list view of all my posts:
-  [List of Posts]({{ site.url }}/all)
+  [List of Posts]({{ site.url }}/all) ({{ site.posts.size }} posts.)
 * View my [resume](/assets/CV.pdf)!
 * [Certifications]({{ site.url }}/certs)
 
 <h3>My recent posts:</h3>
 
-{% for post in site.posts %}
-  <ul>
-    <li><a href="{{ post.url }}">{{ post.title }} ({{ post.date | date: "%b %d, %Y" }})</a></li>
-  </ul>
-
+{% for post in site.posts limit:5 %}
+  <li><a href="{{ post.url }}">{{ post.title }} ({{ post.date | date: "%b %d, %Y" }})</a></li>
 {{ post.excerpt | truncatewords: 30 }}
-
 {% endfor %}
