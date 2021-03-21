@@ -25,3 +25,15 @@ author:  Yuhao Dai
 
 
 統計検定を合格したいということであればまだ，どのように偏差や分散が計算されるかを知らなければなりませんが，実際ではPythonを使用して分析を行うため，あまり役に立たないとも思いました．
+
+ここで（自分へのノートも兼ねて）Pythonコードをちょっとだけまとめよう
+
+データの指標まとめ（count, mean, std, min, 1qr, median, 3qr, max, datatype)
+~~~ python
+import pandas as pd
+data = pd.read_csv("ch1.csv")
+data.describe()
+~~~
+これだけで，個数，平均値，標準偏差，最小最大値などが見れて，IQRも分かります
+
+次では標準化などを記載する予定です
