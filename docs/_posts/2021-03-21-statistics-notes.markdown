@@ -1,10 +1,11 @@
 ---
 layout: post
-date: 2021-03-21 05:48:21 +0900
+date: 2021-03-21 21:44:53 +0900
 title: 統計ノート
-categories: Essay
+categories: Statistic
 author:  Yuhao Dai
 ---
+
 
 21st Mar. 2021
 
@@ -21,3 +22,6 @@ author:  Yuhao Dai
 * 国勢調査(Census): 1920年10月1日から5年ごとに実施し，日本在住の全員を対象に行われる全数調査，Internet，郵送や直接提出で参加できる
 * 母集団(Statistical Population): 特徴や傾向などを知りたい集団全体を母集団という
 * 標本(Sample): 実際に調査を実施する母集団の一部のこと
+
+
+統計検定を合格したいということであればまだ，どのように偏差や分散が計算されるかを知らなければなりませんが，実際ではPythonを使用して分析を行うため，あまり役に立たないとも思いました．
