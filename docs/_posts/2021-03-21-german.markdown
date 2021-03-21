@@ -6,6 +6,8 @@ categories: [Word list, German]
 author:  Yuhao Dai
 ---
 
+Today's German words:
+
 * bleibt
 * dabei
 * da
