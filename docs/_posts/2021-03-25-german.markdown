@@ -1,0 +1,23 @@
+---
+layout: post
+date: 2021-03-25 08:04:03 +0900
+title: Today's Vocabs
+categories: Essay
+author:  Yuhao Dai
+---
+
+There's been a confusion in me about these two words: `Wettkampf` `Konkurrenz`.
+
+Basically, `Wettkampf` means competition, a contest, an event, while `Konkurrenz` means a competitor, a person.
+
+So there it goes.
+
+* Verlängerung (Extention)
+* Verteidigung (Defense, of something good)
+* fragen (ask)
+* Niederlage (Defeat)
+* fangen (catch)
+* Siegerehrung (winners respect, Awards ceremony)
+* Schiedsrichter (referee)
+* Abwehr (Defense, against something bad)
+* Angriff (tackle)
