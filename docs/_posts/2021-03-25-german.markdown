@@ -21,3 +21,5 @@ So there it goes.
 * Schiedsrichter (referee)
 * Abwehr (Defense, against something bad)
 * Angriff (tackle)
+* Begegnung (encounter)
+* Rückstand (deficit)
