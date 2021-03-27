@@ -5,7 +5,7 @@ title: 統計検定からのResult-Oriented Learning
 categories: Essay
 author:  Yuhao Dai
 ---
-a
+
 > 4月の入社まで，統計検定3級とPythonエンジニア認定試験を取る予定です．
 
 まあ，このようなことでもしないと，ダラダラと`Netflix`ばかり見る日々になりかねないので，モチベ維持の一環としてしているんだ．

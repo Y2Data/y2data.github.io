@@ -1,0 +1,25 @@
+---
+layout: post
+date: 2021-03-27 12:58:54 +0900
+title: Error
+categories: Essay
+author:  Yuhao Dai
+---
+
+**誤差**
+
+* 桁溢れ誤差(Overflow & Underflow Error)  
+  8 bits : -128~127
+  16 : -32768~32767  
+
+* 丸誤差(Rounding Error)  
+  小数点以下XX位までを記録し、残りを切り捨てなどすることで生じる誤差  
+
+* 打ち切り誤差(Truncation Error)  
+  無限小数、極限値などを求めている途中で処理を中止させることによる生じる誤差  
+
+* 桁落ち(Loss of Significance)  
+  絶対値での差よりも相対値の差での変化が大きい場合：例えば、近似値の差を求める場合、有効の桁数が減る現象など
+
+* 情報落ち(Loss of Information)  
+  同上、絶対値の大きい値に小さな変化を与えた場合、その変化が正規化などにより無視される場合がある
