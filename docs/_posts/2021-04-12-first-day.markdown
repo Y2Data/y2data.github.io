@@ -1,0 +1,25 @@
+---
+layout: post
+date: 2021-04-12 06:24:06 +0900
+Title: First Day
+categories: Essay
+author:  Yuhao Dai
+---
+
+Today is the first day to work at InfoSys.
+
+I got the suit ready, shirts ironed, all required documents in a file.
+
+Tomorrow, according to plan, I'll be back right at home, working remotely. Would everything just be fine, or would it seems fine on the surface?
+
+What would we do today? What should I say when greeting my fellows?
+
+When would today end? Or would it be eternally different, just that I don't know it yet?
+
+There's only one way to find out.
+
+Oh, BTW, I passed 1 of 8 courses on Google's Data Analyst course.
+
+Here's the certificate.
+
+![First of eight courses](/assets/'Coursera XMB65YSQBXEP.pdf')
