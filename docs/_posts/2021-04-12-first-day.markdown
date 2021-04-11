@@ -22,4 +22,4 @@ Oh, BTW, I passed 1 of 8 courses on Google's Data Analyst course.
 
 Here's the certificate.
 
-![First of eight courses](/assets/'Coursera XMB65YSQBXEP.pdf')
+[First of eight courses](/assets/Coursera-XMB65YSQBXEP.pdf)
