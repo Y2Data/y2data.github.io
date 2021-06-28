@@ -13,6 +13,7 @@ title: Home
   [List of Posts]({{ site.url }}/all) ({{ site.posts.size }} posts.)
 * View my [resume](/assets/CV.pdf)!
 * [Certifications]({{ site.url }}/certs)
+* [Competition Portfolio]({{ site.url }}/CompetitionPortfolio)
 
 <h3>My recent posts:</h3>
 
