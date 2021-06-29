@@ -6,7 +6,7 @@ categories: Essay
 author:  Yuhao Dai
 ---
 
-## Kaggle:
+## [Kaggle](https://www.kaggle.com/tim2dai):
 
 1. [SETI](https://www.kaggle.com/c/seti-breakthrough-listen)
   Finish date: 29th July, 2021
