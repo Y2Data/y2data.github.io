@@ -18,6 +18,8 @@ title: Home
 <h3>My recent posts:</h3>
 
 {% for post in site.posts limit:5 %}
+{% if post.visible != 0 %}
   <li><a href="{{ post.url }}">{{ post.title }} ({{ post.date | date: "%b %d, %Y" }})</a></li>
 {{ post.excerpt | truncatewords: 30 }}
+{% endif %}
 {% endfor %}

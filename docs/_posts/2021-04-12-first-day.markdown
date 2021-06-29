@@ -4,6 +4,7 @@ date: 2021-04-12 06:24:06 +0900
 Title: First Day
 categories: Essay
 author:  Yuhao Dai
+visible: 0
 ---
 
 Today is the first day to work at InfoSys.

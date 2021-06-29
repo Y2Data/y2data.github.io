@@ -4,6 +4,7 @@ date: 2021-03-30 16:39:39 +0900
 Title: オンリースーツについて
 categories: Essay
 author:  Yuhao Dai
+visible: 0
 ---
 
 ### オンリーにてオーダースーツしてきました（それになぜ最悪だと思うのかもかねて）
