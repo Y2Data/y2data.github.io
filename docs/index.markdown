@@ -15,7 +15,7 @@ title: Home
 * [Certifications]({{ site.url }}/certs)
 * [Competition Portfolio]({{ site.url }}/CompetitionPortfolio)
 
-<h3>My recent posts:</h3>
+<h3>My recent posts: </h3>
 
 {% for post in site.posts limit:5 %}
 {% if post.visible != 0 %}
