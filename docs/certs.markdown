@@ -12,3 +12,4 @@ author:  Yuhao Dai
 * [DP-900](/assets/DP-900.pdf)(8th May 2021)
 * [MD-900](/assets/MD-900.pdf)(9th May 2021)
 * [AI-100](/assets/AI-100.pdf)(12th May 2021)
+* [PDE](/assets/PDE.pdf)(17th June 2021)
