@@ -12,8 +12,10 @@ title: Home
 * Here's a list view of all my posts:
   [List of Posts]({{ site.url }}/all) ({{ site.posts.size }} posts.)
 * View my [resume](/assets/CV.pdf)!
+* [Final Paper]({{ /assets/finalPaper.pdf}})
 * [Certifications]({{ site.url }}/certs)
 * [Competition Portfolio]({{ site.url }}/CompetitionPortfolio)
+
 
 <h3>My recent posts: </h3>
 
