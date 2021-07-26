@@ -42,3 +42,30 @@ author:  Yuhao Dai
     1. このコンペが高度なドメイン知識とデータの前処理を要求するため、二日間データをみてGNSSについて調べてみました。
     2. SETIのノートブックに真似て、lightgbmによるBaselineモデルを書きました。データを読み、ワンホットエンコーディング、シフト操作などができるが、スコアが1100から全く下がらずにいる。
     3. アプローチ自体に問題があると思い、Gradient Boostをやめ、TPUを使用できるKerasによるDLモデルを書きました。
+
+
+----------
+
+3. [AI Quest Hotel Price Prediction](https://signate.jp/courses/kYNRLg60ZbWZj3vo)
+Finish Date: 9th August, 2021
+Approach I took:
+    1. This is obviously a feature-engineering heavy competition, so I started just there. Domain specific approaches include:
+      * Encode latitude and longitude into
+        `x = cos(lat) * cos(lon)`
+        `y = cos(lat) * sin(lon)`
+        `z = sin(lat) `
+      * Encode cancellation policy into numerical based on the level of strictness.
+      * Encode first_review, last_review, host_since into timedelta between the record and today, so that they can reflect if said hotel's popularity and their age.
+      * Encode mentioned amenities (which is a json formatted string) into just a counter of them. The idea is the more amenities it mentions (let alone the kind), more likely they charge a premium for the room (the psychology of anticipation reflected on the item count).
+
+3. [AI Quest Hotel Price Prediction](https://signate.jp/courses/kYNRLg60ZbWZj3vo)
+  終了日：2021年8月9日\n
+  取ったアプローチ:
+    1. 特徴量エンジニアリングが（ほぼ）全てを決めるコンペだったので、そこからはじめました。ドメイン的にユニークな調整が以下の通り:
+      * 緯度経度の正規化:
+        `x = cos(lat) * cos(lon)`
+        `y = cos(lat) * sin(lon)`
+        `z = sin(lat) `
+      * キャンセルポリシーを厳しさの順で0~5にエンコード
+      * first_review, last_review, host_sinceという日付特徴を、本日との差という数値特徴へ変換し、数字が大きければ大きいほど古いことを差す（そして、古いほど値段が低いという仮設
+      * アメニティというJsonフォーマットの特徴量をcounterという数値へ変換。アイディアとしてはアメニティが多い所（または多くあると見せようとするところ）の方が、価格が上がりやすいという仮設
