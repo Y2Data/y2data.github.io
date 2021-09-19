@@ -15,3 +15,4 @@ author:  Yuhao Dai
 * [PDE](/assets/PDE.pdf)(17th June 2021)
 * [G検定](/assets/G.pdf)(17th July 2021)
 * [PCA](/assets/PCA.pdf)(11th August 2021)
+* [PMLE](/assets/PMLE.pdf)(19th September 2021)
