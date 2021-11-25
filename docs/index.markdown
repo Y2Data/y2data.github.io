@@ -15,7 +15,7 @@ title: Home
 * [Final Paper](/assets/finalPaper.pdf)
 * [Certifications]({{ site.url }}/certs)
 * [Competition Portfolio]({{ site.url }}/CompetitionPortfolio)
-
+* [Recently Read Books]({{ site.url }}/ReadBooks)
 
 <h3>My recent posts: </h3>
 
