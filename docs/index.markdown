@@ -8,7 +8,6 @@ title: Home
 <h2>Hello!</h2>
 
 * Welcome to my website, scroll down for my recent posts.
-* Here's my [blog](https://y2d.club) hosted on WordPress (deprecation alert).
 * Here's a list view of all my posts:
   [List of Posts]({{ site.url }}/all) ({{ site.posts.size }} posts.)
 * View my [resume](/assets/CV.pdf)!
