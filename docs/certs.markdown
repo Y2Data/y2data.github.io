@@ -16,3 +16,4 @@ author:  Yuhao Dai
 * [G検定](/assets/G.pdf)(17th July 2021)
 * [PCA](/assets/PCA.pdf)(11th August 2021)
 * [PMLE](/assets/PMLE.pdf)(19th September 2021)
+* [Google Analytics Certificate](https://www.credly.com/badges/2f681b5c-3d1e-4b41-afe4-7712cd22a155?source=linked_in_profile) (March 2022)
