@@ -13,10 +13,10 @@ title: Home
 
 * Here's a list view of all my posts:
   [List of Posts]({{ site.url }}/all) ({{ site.posts.size }} posts.)
-<!--->
+{% comment %}
 * [Final Paper](/assets/finalPaper.pdf)
 * [Competition Portfolio]({{ site.url }}/CompetitionPortfolio)
-<--->
+{% endcomment %}
 
 
 
