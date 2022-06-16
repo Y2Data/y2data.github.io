@@ -1,0 +1,28 @@
+---
+layout: post
+date: 2022-06-16 12:20:28 +0900
+Title: New Life
+categories: Essay
+author:  Yuhao Dai
+---
+
+## So it has been more or less like a new life for me.
+I haven't really been "OFF" from my personal things for so long just because I'm obsessed with something else. Well at least for the past half year, it has been my job.
+My job at bitFlyer is more or less ideal. At first it was so much to absorb, I learnt like a sponge. Then there was intense data warehouse migration, BI migration and dramas. It was a great place to work in, but things are starting to end. 
+
+#### End of growing.
+I'm pretty independent. I mean, I work with others greatly, but I'm better when I'm alone and with a clear goal. Most of things can be solved with Google and technical support, but the environment lacked a proper mentor.
+I didn't have anyone to talk to when I'm in the wall, and the only guy I work with knows even less than me. He's more focused on writing queries and I'm doing stuff all over the place. Trying to create a standard of code-writing and infrastructure is nearly impossible ---- there's the constant doubt and resilience that says "if it works, there's no reason to fix it". Then when we're migrating and I thought it'd be a great chance to change it, now it's "why are we rewriting it when we can copy paste the old ones?". Yeah, that guy.
+Certainly I'm still learning, on my own mostly, but it just felt so pointless at this point. You strive and trying to bulid something new, and bang, an old man just pops out and says "hey what are you doing changing those things, put them back so I can do shitty things with my shitty code". It's so frustarting to receive orders from someone who has less coding experience about code, architeacture and pretty anything about the job.
+
+#### Industry falling.
+2022 witnessed lots of things, war, rise and fall of bitcoin as rich Russians trying to move assets to offshore, massive collapse of both stock and cryptocurrency market. There're no safe place to invest in, at least at this moment. Industry is falling, so the ones who live in them (especially those that were falling regardlessly) will fall inevitably. 
+There are no longer "expansion" or "grand entry" or "breakthrough" through the industry. It's "regulation", "loss cut" and "abandoning the ship".
+The ship's sinking, and the best one can do is to save their own.
+
+#### Better opportunities.
+With that been said, the job did offer me lots and lots of great opportunities that I won't be having otherwise. I got to rebuild something that was utterly awful and by someone who doesn't really know what they are doing; I got to know lots of great personalities that I learnt so much from. I got new opportunities at companies I wouldn't have dreamt of. 
+I grew a lot, and lots of it came from the suffering itself. It was magical, I was simultaneously enchanted and repelled by the inexhaustible variety of life. 
+
+#### New journey.
+Not sure what it'd be, but all hands on board now.

@@ -8,16 +8,21 @@ title: Home
 <h2>Hello!</h2>
 
 * Welcome to my website, scroll down for my recent posts.
+* View my [resume](/assets/CV.pdf)!
+* [Certifications]({{ site.url }}/certs)
+
 * Here's a list view of all my posts:
   [List of Posts]({{ site.url }}/all) ({{ site.posts.size }} posts.)
-* View my [resume](/assets/CV.pdf)!
+<!--->
 * [Final Paper](/assets/finalPaper.pdf)
-* [Certifications]({{ site.url }}/certs)
 * [Competition Portfolio]({{ site.url }}/CompetitionPortfolio)
+<--->
+
+
+
 
 <h3>My recent posts: </h3>
-
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:3 %}
 {% if post.visible != 0 %}
   <li><a href="{{ post.url }}">{{ post.title }} ({{ post.date | date: "%b %d, %Y" }})</a></li>
 {{ post.excerpt | truncatewords: 30 }}
