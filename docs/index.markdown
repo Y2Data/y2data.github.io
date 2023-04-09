@@ -25,6 +25,5 @@ title: Home
 {% for post in site.posts limit:3 %}
 {% if post.visible != 0 %}
   <li><a href="{{ post.url }}">{{ post.title }} ({{ post.date | date: "%b %d, %Y" }})</a></li>
-{{ post.excerpt | truncatewords: 30 }}
 {% endif %}
 {% endfor %}
